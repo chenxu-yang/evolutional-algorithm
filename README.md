@@ -1,10 +1,20 @@
 # evolutional-algorithm
 implement applications based on evolutional algorithm
 
-using c++ and openGL
+## part 1
+use ea to solve TSP
 
-3a Develop a 3D physics simulator•Demonstrate a bouncing cube and a “breathing” cube
+## part 2
+use gp to do curve fitting
 
-3b Evolve a fixed-shape robot•Manually design a robot, evolve a controller to make it move
+## part 3
 
-3c Evolve both the shape and behavior of a robot•Demonstrate a moving robot of various shapes and behavoors
+ Develop a 3D physics simulator•Demonstrate a bouncing cube and a “breathing” cube
+
+ Evolve a fixed-shape robot•Manually design a robot, evolve a controller to make it move
+
+ Evolve both the shape and behavior of a robot•Demonstrate a moving robot of various shapes and behavoors
+
+## performance
+
+including videos and pdf specification
